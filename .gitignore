@@ -1,0 +1,22 @@
+# Flutter/Dart
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+
+# Firebase configuration (IMPORTANT: keep your keys private)
+ios/Runner/GoogleService-Info.plist
+android/app/google-services.json
+lib/firebase_options.dart
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+*.iws
+.project
+
+# OS related
+.DS_Store
+Thumbs.db
